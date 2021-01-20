@@ -1,0 +1,32 @@
+{
+    "name": "guilhermetome/todo-api",
+    "description": "API To do",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GuilhermeTome",
+            "email": "guigo.reis90@gmail.com"
+        }
+    ],
+    "require": {
+        "pecee/simple-router": "4.2.0.6",
+        "league/plates": "^3.3",
+        "kuria/debug": "^4.0",
+        "catfan/medoo": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        },
+        "files": [
+            "configurations.php",
+            "src/functions.php",
+            "routes/loader.php"
+        ]
+    },
+    "scripts": {},
+    "config": {
+        "disable-tls": false
+    }
+}
