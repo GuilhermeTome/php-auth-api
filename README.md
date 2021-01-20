@@ -2,8 +2,11 @@
 
 Esse projeto é uma API simples para autenticação usando JWT
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GuilhermeTome/php-auth-api/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GuilhermeTome/php-auth-api/?branch=master)
 ![GitHub last commit](https://img.shields.io/github/last-commit/GuilhermeTome/php-auth-api)
 ![GitHub repository size](https://img.shields.io/github/repo-size/GuilhermeTome/php-auth-api?color=blue)
+[![Build Status](https://scrutinizer-ci.com/g/GuilhermeTome/php-auth-api/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GuilhermeTome/php-auth-api/build-status/master)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/GuilhermeTome/php-auth-api/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
 
 ## Sobre o projeto
 
